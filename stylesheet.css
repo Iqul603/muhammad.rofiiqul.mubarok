@@ -1,5 +1,7 @@
 body {
   font-family: "Avenir Next";
+  Padding-right: 20px;
+  Padding-left: 20px;
 }
 
 li {
@@ -7,7 +9,7 @@ li {
 }
 
 .header {
-  background-color: #26d0c9;
+  background-color: #639c9c;
   color: #fff;
   height: 90px;
 }
@@ -19,25 +21,35 @@ li {
 }
 
 .header-list li {
-  float: left;
+  float: right;
+  padding: 33px 25px;
+  height: 23px;
+}
+input {
+  width: 200px;
   padding: 33px 20px;
+  font-size: 12px;
+  background-color: #e0ebeb;
+  background-image: url('searchicon.png');
+  background-position: 100px 40px;
+  border:1px solid #778899;
 }
 
+.nav {
+  height: 30px;
+
+}
 .main {
-  padding: 100px 80px;
+  padding: 80px 50px;
+  background-color: #b1cdcd;
+  color: #fff;
 }
 
 .copy-container h1 {
   font-size: 140px;
+  color: #696969;
 }
 
-.copy-container h2 {
-  font-size: 60px;
-}
-
-.copy-container span {
-  color: #ff4a4a;
-}
 
 .contents {
   height: 500px;
@@ -46,6 +58,7 @@ li {
 
 .section-title {
   border-bottom: 2px solid #dee7ec;
+  color: #2f5167;
   font-size: 28px;
   padding-bottom: 15px;
   margin-bottom: 50px;
@@ -65,24 +78,22 @@ li {
   padding-top: 100px;
 }
 
-/* Add CSS for <input> and <textarea> tags */
-input, textarea {
+input, textarea{
   width: 400px;
   margin-top: 10px;
   margin-bottom: 30px;
   padding: 20px;
   font-size: 18px;
-  border: 1px solid #dee7ec;
+  border:1px solid #dee7ec;
 }
 
-/* Add CSS for contact-submit */
-.contact-submit {
-  background-color: #dee7ec;
-  color: #889eab;
+.contact-submit{
+  background-color:#dee7ec;
+  color:#889eab;
 }
 
 .footer {
-  background-color: #2f5167;
+  background-color: #507c7c;
   color: #fff;
   height: 120px;
   padding: 40px;
@@ -90,7 +101,7 @@ input, textarea {
 
 .footer-logo {
   float: left;
-  font-size: 32px;
+  font-size: 35px;
 }
 
 .footer-list {
