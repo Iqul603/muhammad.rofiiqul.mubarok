@@ -9,7 +9,7 @@ li {
 }
 
 .header {
-  background-color: #ffb3b3;
+  background-color: #ebc6c6;
   color: #ffe6e6;
   height: 90px;
 }
@@ -47,7 +47,7 @@ input {
 
 .copy-container h1 {
   font-size: 140px;
-  color: #ff4d4d;
+  color: #ebc6c6;
 }
 
 
@@ -58,7 +58,7 @@ input {
 
 .section-title {
   border-bottom: 2px solid #dee7ec;
-  color: #cc0000;
+  color: #dea1a1;
   font-size: 28px;
   padding-bottom: 15px;
   margin-bottom: 50px;
