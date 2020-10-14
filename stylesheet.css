@@ -9,8 +9,8 @@ li {
 }
 
 .header {
-  background-color: #639c9c;
-  color: #fff;
+  background-color: #ffb3b3;
+  color: #ffe6e6;
   height: 90px;
 }
 
@@ -41,13 +41,13 @@ input {
 }
 .main {
   padding: 80px 50px;
-  background-color: #b1cdcd;
-  color: #fff;
+  background-color: #ffcccc;
+  color: #ffe6e6;
 }
 
 .copy-container h1 {
   font-size: 140px;
-  color: #696969;
+  color: #ff4d4d;
 }
 
 
@@ -58,7 +58,7 @@ input {
 
 .section-title {
   border-bottom: 2px solid #dee7ec;
-  color: #2f5167;
+  color: #cc0000;
   font-size: 28px;
   padding-bottom: 15px;
   margin-bottom: 50px;
@@ -93,8 +93,8 @@ input, textarea{
 }
 
 .footer {
-  background-color: #507c7c;
-  color: #fff;
+  background-color: #ff9999;
+  color: #ffe6e6;
   height: 120px;
   padding: 40px;
 }
