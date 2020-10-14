@@ -10,7 +10,7 @@ li {
 
 .header {
   background-color: #ff8080;
-  color: #ffe6e6;
+  color: #ffffff;
   height: 90px;
 }
 
@@ -42,7 +42,7 @@ input {
 .main {
   padding: 80px 50px;
   background-color: #ff9999;
-  color: #ffe6e6;
+  color: #ffffff;
 }
 
 .copy-container h1 {
@@ -95,7 +95,7 @@ input, textarea{
 
 .footer {
   background-color: #ff6666;
-  color: #ffe6e6;
+  color: #ffffff;
   height: 120px;
   padding: 40px;
 }
