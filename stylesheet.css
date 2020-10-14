@@ -80,6 +80,7 @@ input {
 
 input, textarea{
   width: 400px;
+  background-color: #ffe6e6;
   margin-top: 10px;
   margin-bottom: 30px;
   padding: 20px;
